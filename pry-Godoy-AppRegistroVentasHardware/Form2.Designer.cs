@@ -108,7 +108,7 @@
             // 
             // cmdRegistrar
             // 
-            cmdRegistrar.Location = new Point(379, 210);
+            cmdRegistrar.Location = new Point(307, 203);
             cmdRegistrar.Name = "cmdRegistrar";
             cmdRegistrar.Size = new Size(75, 23);
             cmdRegistrar.TabIndex = 8;
@@ -117,7 +117,7 @@
             // 
             // cmdCancelar
             // 
-            cmdCancelar.Location = new Point(258, 210);
+            cmdCancelar.Location = new Point(186, 203);
             cmdCancelar.Name = "cmdCancelar";
             cmdCancelar.Size = new Size(75, 23);
             cmdCancelar.TabIndex = 9;
