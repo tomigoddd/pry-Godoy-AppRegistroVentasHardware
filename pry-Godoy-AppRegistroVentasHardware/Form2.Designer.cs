@@ -79,7 +79,7 @@
             // 
             // dtpFecha
             // 
-            dtpFecha.Location = new Point(258, 63);
+            dtpFecha.Location = new Point(258, 68);
             dtpFecha.Name = "dtpFecha";
             dtpFecha.Size = new Size(121, 23);
             dtpFecha.TabIndex = 4;
@@ -87,21 +87,21 @@
             // lstProductos
             // 
             lstProductos.FormattingEnabled = true;
-            lstProductos.Location = new Point(258, 91);
+            lstProductos.Location = new Point(258, 96);
             lstProductos.Name = "lstProductos";
             lstProductos.Size = new Size(121, 23);
             lstProductos.TabIndex = 5;
             // 
             // textBox1
             // 
-            textBox1.Location = new Point(258, 119);
+            textBox1.Location = new Point(258, 124);
             textBox1.Name = "textBox1";
             textBox1.Size = new Size(121, 23);
             textBox1.TabIndex = 6;
             // 
             // textBox2
             // 
-            textBox2.Location = new Point(258, 147);
+            textBox2.Location = new Point(258, 152);
             textBox2.Name = "textBox2";
             textBox2.Size = new Size(121, 23);
             textBox2.TabIndex = 7;
